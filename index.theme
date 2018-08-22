@@ -1,0 +1,8 @@
+
+[Icon Theme]
+Name=Socya 2.0
+Inherits=GNOME
+
+[actions/24]
+Size=24
+Type=Scalable
